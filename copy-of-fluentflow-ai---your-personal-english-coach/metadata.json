@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FluentFlow AI - Your Personal English Coach",
+  "description": "An all-in-one English learning platform featuring AI-powered role-play scenarios, natural expression polishing, live voice tutoring, and intelligent vocabulary training.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
